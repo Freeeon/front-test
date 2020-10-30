@@ -1,4 +1,5 @@
 # test-quest
+Смотреть папку Prod, соответственно first.html и second.html
 
 ## Project setup
 ```
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
